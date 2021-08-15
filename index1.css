@@ -386,7 +386,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .header {
     background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), 
-        url('file:///Users/prajyotio/Desktop/7.jpg');
+        url('./Image/7.jpg');
     height: 100vh;
     background-size: cover;
     background-position: center;
